@@ -6,7 +6,7 @@ Do you like Ethiopian cuisines? This website has recipes for:
 - *Ethiopian tibs*
 
 ## Preview
-##### [Live Demo](<https://eyuelyohanes.github.io/odin-recipes>)
+##### [Live Demo](<https://eyuel5.github.io/odin-recipes>)
 
 ## Project
 **This is a basic recipe website from The Odin Project.**
