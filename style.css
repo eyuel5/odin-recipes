@@ -6,8 +6,8 @@
 
 body {
     margin: 0;
-    font-family: "Roboto", sans-serif;
-    font-size: 1.3rem;
+    font-family: "Raleway", Arial, sans-serif;
+    font-size: 1.125rem;
 }
 
 .container {
@@ -23,6 +23,10 @@ body {
 
 img {
     max-width: 100%;
+}
+
+h1 {
+    font-size: 1.5rem;
 }
 
 p {
