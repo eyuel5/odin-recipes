@@ -13,7 +13,7 @@ Do you like Ethiopian cuisines? This website has recipes for:
 
 ## Created with
 - ##### HTML
-- ##### I haven't used CSS yet!
+- ##### CSS
 
 ##### *credits go to:*
 - [tsionafoods.com | Doro Wot](<https://www.tsionafoods.com/post/doro-wot>)
